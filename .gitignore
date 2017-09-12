@@ -47,9 +47,9 @@ Temporary Items
 .apdisk
 
 # For ReactJS
-/node_modules
-bundle.js
-npm-debug.log
+Projects/ReactJS/ReduxSimpleSrarter/node_modules
+Projects/ReactJS/ReduxSimpleSrarter/bundle.js
+Projects/ReactJS/ReduxSimpleSrarter/npm-debug.log
 .DS_Store
 
 # IntelliJ
