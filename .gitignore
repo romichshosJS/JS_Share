@@ -50,7 +50,10 @@ Temporary Items
 Projects/ReactJS/CloneYouTube/node_modules
 Projects/ReactJS/CloneYouTube/bundle.js
 Projects/ReactJS/CloneYouTube/npm-debug.log
-.DS_Store
+
+Projects/ReactJS/Redux/node_modules
+Projects/ReactJS/Redux/bundle.js
+Projects/ReactJS/Redux/npm-debug.log
 
 # IntelliJ
 *.iml
