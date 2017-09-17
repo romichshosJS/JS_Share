@@ -51,9 +51,9 @@ Projects/ReactJS/CloneYouTube/node_modules
 Projects/ReactJS/CloneYouTube/bundle.js
 Projects/ReactJS/CloneYouTube/npm-debug.log
 
-Projects/ReactJS/Redux/node_modules
-Projects/ReactJS/Redux/bundle.js
-Projects/ReactJS/Redux/npm-debug.log
+Projects/ReactJS/Redux/book_list/node_modules
+Projects/ReactJS/Redux/book_list/bundle.js
+Projects/ReactJS/Redux/book_list/npm-debug.log
 
 # IntelliJ
 *.iml
