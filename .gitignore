@@ -59,6 +59,10 @@ Projects/ReactJS/Redux/weather/node_modules
 Projects/ReactJS/Redux/weather/bundle.js
 Projects/ReactJS/Redux/weather/npm-debug.log
 
+Projects/ReactJS/ReactRouting/Blog/node_modules
+Projects/ReactJS/ReactRouting/Blog/bundle.js
+Projects/ReactJS/ReactRouting/Blog/npm-debug.log
+
 # IntelliJ
 *.iml
 /.idea
