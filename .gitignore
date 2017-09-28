@@ -47,17 +47,9 @@ Temporary Items
 .apdisk
 
 # For ReactJS
-Projects/ReactJS/CloneYouTube/node_modules
-Projects/ReactJS/CloneYouTube/bundle.js
-Projects/ReactJS/CloneYouTube/npm-debug.log
-
-Projects/ReactJS/Redux/book_list/node_modules
-Projects/ReactJS/Redux/book_list/bundle.js
-Projects/ReactJS/Redux/book_list/npm-debug.log
-
-Projects/ReactJS/Redux/weather/node_modules
-Projects/ReactJS/Redux/weather/bundle.js
-Projects/ReactJS/Redux/weather/npm-debug.log
+node_modules/
+bundle.js/
+npm-debug.log/
 
 # IntelliJ
 *.iml
