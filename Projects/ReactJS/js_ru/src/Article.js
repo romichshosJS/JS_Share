@@ -24,7 +24,6 @@ export default class Article extends Component {
   }
 
   getBody() {
-    console.log(this.state.isOpen);
     if (!this.state.isOpen) return null
     const {article} = this.props
     return <section>{article.text}</section>
