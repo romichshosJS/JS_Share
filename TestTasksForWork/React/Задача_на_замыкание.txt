@@ -1,0 +1,8 @@
+Через каждые 2 секунды печатать текущее значение итератора который изменяется от 1 до 10000. Использовать for и setTimeout/setInterval.
+
+Возможные решения:
+https://stackoverflow.com/questions/5226285/settimeout-in-for-loop-does-not-print-consecutive-values
+
+https://stackoverflow.com/questions/21529700/javascript-print-a-value-after-1-sec
+
+https://learn.javascript.ru/settimeout-setinterval#tasks
